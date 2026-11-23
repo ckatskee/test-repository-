@@ -1,0 +1,14 @@
+---
+title: "Predictive Modeling"
+format: gfm
+---
+
+## Introduction
+
+## Data
+
+## Methods 
+
+## Results
+
+## Discussion
